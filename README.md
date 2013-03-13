@@ -1,4 +1,4 @@
-New_York
+New York
 ========
 
-R scripts and documentation associated with New York SGP analyses
+SGP source code and documentation associated with New York SGP analyses
